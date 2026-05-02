@@ -1,0 +1,107 @@
+@import "tailwindcss";
+
+:root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+    background-color: var(--nav);
+    color: var(--navText);
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+}
+
+.border-background {
+    border-color: var(--action);
+}
+
+.bg-background {
+    background-color: var(--background);
+}
+
+.bg-section-background {
+    background-color: var(--sectionBackground);
+}
+
+.bg-div-background {
+    background-color: var(--divBackground);
+}
+
+.bg-primary {
+    background-color: var(--action);
+}
+
+.bg-primary:hover {
+  background-color: var(--primary);
+  color: var(--text)
+}
+
+a {
+  color: var(--text);
+}
+
+a:hover {
+  color: var(--primary);
+}
+
+.bg-action {
+    background-color: var(--action);
+    color: var(--navText)
+}
+
+.bg-action:hover {
+    background-color: var(--action);
+    color: var(--text)
+}
+
+.bg-nav-action {
+    background-color: var(--action);
+    color: var(--nav)
+}
+
+.bg-nav-action:hover {
+    background-color: var(--action);
+    color: var(--textvariant)
+}
+
+.text-colour {
+    color: var(--text);
+}
+
+.text-primary {
+    color: var(--primary);
+}
+
+.text-nav {
+    color: var(--navText);
+}
+
+.ring-button {
+    border-color: var(--text);
+    color: var(--text);
+    text-align: center;
+}
+
+.ring-button:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.highlight-ring {
+    color: var(--text);
+    text-align: center;
+}
+
+.highlight-ring:hover {
+    border-color: var(--primary);
+    color: var(--primary);
+}
+
+.ring-button-group {
+    border-color: var(--background);
+}
