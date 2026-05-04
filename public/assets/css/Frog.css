@@ -1,0 +1,13 @@
+:root {
+    --nav: #3E2C23;              /* Deep warm brown */
+    --navText: #ffffff;          /* White */
+
+    --background: #E8DFC8;       /* Soft beige */
+    --sectionBackground: #F5EBDD;/* Light cream */
+    --divBackground: #ffffff;    /* White */
+
+    --primary: #5F8F3A;          /* Frog green */
+    --action: #5F8F3A;           /* Slightly deeper green */
+
+    --text: #2B2118;             /* Dark brown text */
+}

@@ -1,0 +1,9 @@
+:root {
+    --nav: #4B3621;           /* Deep indigo */           /* Deep navy-grey */
+    --navText: #ffffff;         /* White */
+    --background: #CBB994;      /* Light brown */
+    --sectionBackground: #FFF4D6; /* Warmer cream */
+    --divBackground: #ffffff;   /* White */
+    --primary: #D4A017;         /* Mustard */
+    --action: #D4A017;          /* Mustard accent */
+}
