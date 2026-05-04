@@ -62,7 +62,7 @@ export default function Header() {
               <li><a href="our-story" className="block px-4 py-2 text-nav hover:text-primary">Our Story</a></li>
               <li><a href="ben-hanley" className="block px-4 py-2 text-nav hover:text-primary">Our Team</a></li>
               <li><a href="pricing" className="block px-4 py-2 text-nav hover:text-primary">Pricing</a></li> 
-              <li><a href="http://portsmethodist.localhost:5173/" className="block px-4 nav py-2 hover:text-primary">Demo</a></li>
+              <li><a href="http://portsmethodist.saintpetersnet.uk/" className="block px-4 nav py-2 hover:text-primary">Demo</a></li>
               <li>
                 <a
                   href="contact-us"
